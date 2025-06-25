@@ -23,7 +23,7 @@ A página oferece uma experiência visual leve e elegante, com elementos animado
 
 ## 📸 Prévia
 
-![Preview da Landing Page](./img/preview.png)
+<img src="./img/preview.png" alt="Preview da Landing Page" width="320px">
 
 ## 🚀 Como visualizar
 
