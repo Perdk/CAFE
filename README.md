@@ -29,3 +29,8 @@ A página oferece uma experiência visual leve e elegante, com elementos animado
 
 https://perdk.github.io/cafe/
 
+## 📝 Licença
+
+Este projeto foi feito com fins educativos.
+Fique à vontade para usar como base e adaptar como quiser!
+
