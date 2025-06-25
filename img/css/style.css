@@ -40,7 +40,11 @@ li:hover {
 }
 
 body {
+<<<<<<< HEAD
     background-image: url("https://perdk.github.io/cafe/img/fundo.png");
+=======
+    background-image: url("/img/fundo.png");
+>>>>>>> bc05a1f748954134f0af286f2e4f1eea5e5aa7b2
 }
 
 main {
@@ -212,3 +216,10 @@ section {
     }
 
 }
+<<<<<<< HEAD
+=======
+
+
+
+/*RESPONSIVIDADE PARA OS DOIS ULTIMOS E ESTA FINALIZADO (OS DOIS ULTIMAS DIMESÕES QUE ESTA NO CHAT)*/
+>>>>>>> bc05a1f748954134f0af286f2e4f1eea5e5aa7b2
