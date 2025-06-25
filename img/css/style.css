@@ -154,10 +154,6 @@ section {
 
 /*TABLET*/
 @media (max-width:768px){
-    body{
-        overflow: hidden;
-    }
-    
     .logo img{
         width: 12%;
         opacity: .3;
@@ -171,10 +167,6 @@ section {
 
 /*CELULAR GRANDE/TABLET*/
 @media (max-width:480px){
-    body{
-        overflow: hidden;
-    }
-
     .logo img{
         width: 15%;
         opacity: .4;
@@ -199,10 +191,6 @@ section {
 
 /*CELULAR MÉDIO/PADRÃO*/
 @media (max-width:428px){
-    body{
-        overflow: hidden;
-    }
-
     .logo img{
         width: 20%;
         opacity: .3;
