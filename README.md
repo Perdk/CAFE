@@ -27,7 +27,7 @@ A página oferece uma experiência visual leve e elegante, com elementos animado
 
 ## 🚀 Como visualizar
 
-https://perdk.github.io/cafe/
+https://perdk.github.io/Cafe/
 
 ## 📝 Licença
 

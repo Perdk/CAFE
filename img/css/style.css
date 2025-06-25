@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-body{
-    overflow: hidden; /*Tirou o scroll na responsividade*/
-}
-
 header {
     display: flex;
     justify-content: space-between;
@@ -40,7 +36,13 @@ li:hover {
 }
 
 body {
-    background-image: url("https://perdk.github.io/Cafe/img/fundo.png");
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /*Tirou o scroll na responsividade*/
+  background-image: url("https://perdk.github.io/Cafe/img/fundo.png");
+  background-size: cover;    /* Cobre tudo */
+  background-repeat: no-repeat; /* Evita repetir a imagem de fundo */
+  background-attachment: fixed; /* opcional: fixa o fundo */
 }
 
 main {
@@ -212,3 +214,4 @@ section {
     }
 
 }
+
