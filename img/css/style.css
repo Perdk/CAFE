@@ -40,7 +40,7 @@ li:hover {
 }
 
 body {
-    background-image: url(/img/fundo.png);
+    background-image: url("https://perdk.github.io/cafe/img/fundo.png");
 }
 
 main {
@@ -212,7 +212,3 @@ section {
     }
 
 }
-
-
-
-/*RESPONSIVIDADE PARA OS DOIS ULTIMOS E ESTA FINALIZADO (OS DOIS ULTIMAS DIMESÕES QUE ESTA NO CHAT)*/

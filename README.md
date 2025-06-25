@@ -27,5 +27,5 @@ A página oferece uma experiência visual leve e elegante, com elementos animado
 
 ## 🚀 Como visualizar
 
-![Clique aqui para ver a landing page publicada](https://perdk.github.io/CAFE/)
+https://perdk.github.io/cafe/
 
